@@ -2,7 +2,6 @@
 node_modules/
 
 # Environment
-.env
 
 # Runtime cache (generated at startup)
 cache.json
@@ -42,3 +41,4 @@ backend/tests/*.snap
 
 # Package lock (tuỳ chọn — comment ra nếu muốn lock version)
 # package-lock.json
+config.bat
