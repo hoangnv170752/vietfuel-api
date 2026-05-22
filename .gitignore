@@ -42,3 +42,6 @@ backend/tests/*.snap
 # Package lock (tuỳ chọn — comment ra nếu muốn lock version)
 # package-lock.json
 config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
